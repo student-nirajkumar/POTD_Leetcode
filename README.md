@@ -19,4 +19,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1114-print-in-order](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1114-print-in-order) |
 | [1195-fizz-buzz-multithreaded](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1195-fizz-buzz-multithreaded) |
 | [1226-the-dining-philosophers](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1226-the-dining-philosophers) |
+## Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
