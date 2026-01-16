@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0043-multiply-strings) |
+| [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
