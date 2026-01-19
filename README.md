@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0043-multiply-strings) |
+| [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1895-largest-magic-square) |
+## Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
