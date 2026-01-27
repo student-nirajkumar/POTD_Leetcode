@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [1200-minimum-absolute-difference](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Enumeration
 |  |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
 ## Greedy
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
 ## Bit Manipulation
 |  |
@@ -162,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Sliding Window
 |  |
