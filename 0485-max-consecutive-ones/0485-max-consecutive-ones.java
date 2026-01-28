@@ -11,7 +11,7 @@ class Solution {
                 zero++;
             }
 
-            while (zero > 0) {   
+           if (zero > 0) {   
                 if (nums[i] == 0) {
                     zero--;
                 }
