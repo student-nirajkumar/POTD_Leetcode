@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1592-rearrange-spaces-between-words](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 ## Simulation
 |  |
 | ------- |
