@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [1200-minimum-absolute-difference](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3453-separate-squares-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3454-separate-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [3454-separate-squares-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3454-separate-squares-ii) |
 ## Line Sweep
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1854-maximum-population-year](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1854-maximum-population-year) |
 | [1895-largest-magic-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1895-largest-magic-square) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
@@ -188,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1854-maximum-population-year) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
