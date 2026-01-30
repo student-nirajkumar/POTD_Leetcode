@@ -1,27 +1,30 @@
 class Solution {
     public int maximumPopulation(int[][] logs) {
 
-        int[] year = new int[2051];
+        List<int[]> events = new ArrayList<>();
         for (int i = 0; i < logs.length; i++) {
-            int birth = logs[i][0];
-            int death = logs[i][1];
-
-            year[birth] += 1;
-            year[death] -= 1;
+            events.add(new int[]{logs[i][0], 1});   
+            events.add(new int[]{logs[i][1], -1});  
         }
-        int maxPopulation = 0;
-        int currentPopulation = 0;
-        int answerYear = 1950;
+        Collections.sort(events, (a, b) -> {
+            if (a[0] == b[0]) {
+                return a[1] - b[1]; 
+            }
+            return a[0] - b[0];
+        });
 
-        for (int y = 1950; y <= 2050; y++) {
-            currentPopulation += year[y];
+        int curr = 0;
+        int maxPop = 0;
+        int result = 0;
+        for (int i = 0; i < events.size(); i++) {
+            curr += events.get(i)[1];
 
-            if (currentPopulation > maxPopulation) {
-                maxPopulation = currentPopulation;
-                answerYear = y;
+            if (curr > maxPop) {
+                maxPop = curr;
+                result = events.get(i)[0];
             }
         }
 
-        return answerYear;
+        return result;
     }
 }
