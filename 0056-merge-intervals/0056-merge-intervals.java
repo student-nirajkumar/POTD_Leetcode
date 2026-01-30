@@ -10,25 +10,21 @@ class Solution {
         });
 
         List<int[]> ans = new ArrayList<>();
+        int start = intervals[0][0];
+        int end = intervals[0][1];
 
-        for (int i = 0; i < n; i++) {
-            int start = intervals[i][0];
-            int end = intervals[i][1];
-
-            if (!ans.isEmpty() && end <= ans.get(ans.size() - 1)[1]) {
-                continue;
+        for (int i = 1; i < intervals.length; i++) {
+            if (intervals[i][0] <= end) {
+                end = Math.max(end, intervals[i][1]);
             }
-
-            for (int j = i + 1; j < n; j++) {
-                if (intervals[j][0] <= end) {
-                    end = Math.max(end, intervals[j][1]);
-                } else {
-                    break;
-                }
+            else {
+                ans.add(new int[]{start, end});
+                start = intervals[i][0];
+                end = intervals[i][1];
             }
-
-            ans.add(new int[]{start, end});
         }
+        ans.add(new int[]{start, end});
+         
         int[][] result = new int[ans.size()][2];
         for (int i = 0; i < ans.size(); i++) {
             result[i] = ans.get(i);
