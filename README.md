@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1094-car-pooling](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0056-merge-intervals) |
+| [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1094-car-pooling](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -163,16 +165,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
+| [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 ## Bit Manipulation
 |  |
 | ------- |
