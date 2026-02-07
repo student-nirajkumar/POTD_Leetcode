@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1592-rearrange-spaces-between-words](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1592-rearrange-spaces-between-words) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2381-shifting-letters-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2381-shifting-letters-ii) |
 ## Simulation
 |  |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Enumeration
 |  |
 | ------- |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
 | [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Greedy
 |  |
 | ------- |
