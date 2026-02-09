@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
+| [0915-partition-array-into-disjoint-intervals](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [1094-car-pooling](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
