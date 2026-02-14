@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0799-champagne-tower](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0799-champagne-tower) |
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Enumeration
