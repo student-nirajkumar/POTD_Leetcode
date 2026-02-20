@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0696-count-binary-substrings](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0761-special-binary-string) |
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1592-rearrange-spaces-between-words](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0056-merge-intervals) |
+| [0761-special-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0761-special-binary-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1094-car-pooling](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
