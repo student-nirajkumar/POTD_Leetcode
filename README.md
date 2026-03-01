@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1592-rearrange-spaces-between-words](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1592-rearrange-spaces-between-words) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2381-shifting-letters-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2381-shifting-letters-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0769-max-chunks-to-make-sorted) |
 | [1382-balance-a-binary-search-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Monotonic Stack
 |  |
