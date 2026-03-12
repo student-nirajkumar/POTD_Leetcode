@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3453-separate-squares-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3454-separate-squares-ii) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Segment Tree
 |  |
 | ------- |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -311,4 +313,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0401-binary-watch](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1980-find-unique-binary-string) |
+## Union-Find
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Graph Theory
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 <!---LeetCode Topics End-->
