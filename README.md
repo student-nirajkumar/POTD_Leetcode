@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1854-maximum-population-year](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1895-largest-magic-square) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1895-largest-magic-square) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Prefix Sum
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
