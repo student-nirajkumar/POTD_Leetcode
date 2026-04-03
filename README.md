@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3637-trionic-array-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3719-longest-balanced-subarray-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Geometry
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3454-separate-squares-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Segment Tree
 |  |
 | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Enumeration
 |  |
 | ------- |
