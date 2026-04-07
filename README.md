@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1094-car-pooling) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2069-walking-robot-simulation-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0731-my-calendar-ii) |
 | [0732-my-calendar-iii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0732-my-calendar-iii) |
+| [2069-walking-robot-simulation-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
