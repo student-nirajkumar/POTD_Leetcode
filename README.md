@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1854-maximum-population-year](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1854-maximum-population-year) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1895-largest-magic-square) |
