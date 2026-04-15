@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2381-shifting-letters-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3713-longest-balanced-substring-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2381-shifting-letters-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2463-minimum-total-distance-traveled) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
