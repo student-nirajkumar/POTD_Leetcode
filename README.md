@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3488-closest-equal-element-queries](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3453-separate-squares-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3637-trionic-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3637-trionic-array-i) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3356-zero-array-transformation-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3356-zero-array-transformation-ii) |
 | [3453-separate-squares-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3454-separate-squares-ii) |
+| [3488-closest-equal-element-queries](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Segment Tree
