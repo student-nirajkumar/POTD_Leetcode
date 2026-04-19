@@ -369,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
