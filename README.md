@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1980-find-unique-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2381-shifting-letters-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2463-minimum-total-distance-traveled](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Monotonic Stack
