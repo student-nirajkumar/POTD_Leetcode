@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1980-find-unique-binary-string](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1980-find-unique-binary-string) |
+| [2615-sum-of-distances](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2615-sum-of-distances) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3488-closest-equal-element-queries](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3488-closest-equal-element-queries) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2615-sum-of-distances) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1854-maximum-population-year](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1854-maximum-population-year) |
 | [1895-largest-magic-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1895-largest-magic-square) |
 | [2381-shifting-letters-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2381-shifting-letters-ii) |
+| [2615-sum-of-distances](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2615-sum-of-distances) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3355-zero-array-transformation-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3356-zero-array-transformation-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3356-zero-array-transformation-ii) |
