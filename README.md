@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2381-shifting-letters-ii) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Simulation
 |  |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1854-maximum-population-year](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1854-maximum-population-year) |
+| [2833-furthest-point-from-origin](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Design
 |  |
