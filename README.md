@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1589-maximum-sum-obtained-of-any-permutation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1895-largest-magic-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1895-largest-magic-square) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Graph Theory
 |  |
