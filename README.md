@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3713-longest-balanced-substring-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Array
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3637-trionic-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3637-trionic-array-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -425,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Number Theory
+|  |
+| ------- |
+| [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 <!---LeetCode Topics End-->
