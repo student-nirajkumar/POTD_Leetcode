@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2069-walking-robot-simulation-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
+| [2553-separate-the-digits-in-an-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2615-sum-of-distances) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/student-nirajkumar/POTD_Leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
